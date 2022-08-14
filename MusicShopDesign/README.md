@@ -1,5 +1,4 @@
 ## Music Shop Design
-[Patika.dev](https://www.patika.dev/tr) Css eğitimi dahilinde yapmış olduğum bir müzik mağazasının html ve css kodlarını içerir. 
 
 ### Ana Sayfa
 ![](https://github.com/senanuryesilyurt/HTML-CSS-Exercises/blob/main/MusicShopDesign/photos/p1.png)
