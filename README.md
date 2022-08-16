@@ -1,2 +1,2 @@
 # Css - Exercises
-[Patika.dev](https://www.patika.dev/tr) Css eğitimi dahilinde yapmış olduğum projeleri içerir. 
+[Kodluyoruz](https://www.kodluyoruz.org/) - [Patika.dev](https://www.patika.dev/tr) hızlandırma programı dahilindeki CSS dersi alıştırmalarını içerir.
